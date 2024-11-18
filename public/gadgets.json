@@ -1,0 +1,138 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Gaming Laptop",
+        "product_image": "https://i.ibb.co.com/3yBgTmW/gaming1.jpg",
+        "category": "Computers",
+        "price": 1200,
+        "description": "High-performance gaming laptop with top-of-the-line graphics.",
+        "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "NVIDIA RTX 3060", "15.6 inch FHD display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Pro",
+        "product_image": "https://i.ibb.co.com/H4PZmHS/macbook.webp",
+        "category": "Computers",
+        "price": 1500,
+        "description": "Powerful MacBook Pro for professionals with M1 chip.",
+        "Specification": ["Apple M1 Chip", "8GB RAM", "256GB SSD", "13 inch Retina display", "macOS"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 3,
+        "product_title": "RAVPower 10000mAh",
+        "product_image": "https://i.ibb.co.com/m5ZPFkL/power-bank1.jpg",
+        "category": "Power Banks",
+        "price": 55,
+        "description": "Portable power bank with 10000mAh capacity and fast charging support.",
+        "Specification": ["10000mAh", "USB-C and USB-A ports", "Fast charging", "Slim design"],
+        "availability": false,
+        "rating": 4.3
+    },
+    {
+        "product_id": 4,
+        "product_title": "Windows Ultrabook",
+        "product_image": "https://i.ibb.co.com/m4MtcYz/windows.jpg",
+        "category": "Computers",
+        "price": 900,
+        "description": "Slim and lightweight ultrabook with high performance.",
+        "Specification": ["Intel Core i5", "8GB RAM", "512GB SSD", "14 inch FHD display", "Windows 11"],
+        "availability": false,
+        "rating": 4.3
+    },
+    {
+        "product_id": 5,
+        "product_title": "iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/prGVT7G/iphone.jpg",
+        "category": "Phones",
+        "price": 999,
+        "description": "Latest iPhone with A16 Bionic chip and advanced camera features.",
+        "Specification": ["6.1 inch OLED display", "128GB storage", "5G enabled", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 6,
+        "product_title": "Chromebook",
+        "product_image": "https://i.ibb.co.com/br9y1jc/cromebook.webp",
+        "category": "Computers",
+        "price": 600,
+        "description": "Affordable Chromebook with long battery life for students.",
+        "Specification": ["Intel Celeron", "4GB RAM", "64GB eMMC", "11.6 inch HD display", "Chrome OS"],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": 7,
+        "product_title": "Business Laptop",
+        "product_image": "https://i.ibb.co.com/n3Kbh1C/buisness-laptop.jpg",
+        "category": "Computers",
+        "price": 1100,
+        "description": "Reliable laptop for business professionals with advanced security features.",
+        "Specification": ["Intel Core i7", "16GB RAM", "256GB SSD", "14 inch FHD display", "Windows 10 Pro"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 8,
+        "product_title": "Desktop PC",
+        "product_image": "https://i.ibb.co.com/02CQj6R/pc.webp",
+        "category": "Computers",
+        "price": 750,
+        "description": "Desktop PC suitable for home and office use with expandable storage.",
+        "Specification": ["Intel Core i5", "8GB RAM", "1TB HDD", "Integrated Graphics", "Windows 10"],
+        "availability": false,
+        "rating": 4.0
+    },
+    {
+        "product_id": 9,
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/89LWmjM/apple-watch.jpg",
+        "category": "Smart Watches",
+        "price": 400,
+        "description": "Advanced health and fitness tracker with ECG, heart rate monitor, and GPS.",
+        "Specification": ["ECG monitoring", "Heart rate monitor", "GPS", "Swim-proof", "18-hour battery life"],
+        "availability": true,
+        "rating": 4.8
+    },
+    
+    {
+        "product_id": 10,
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co.com/RcSMQkz/samsung.jpg",
+        "category": "Phones",
+        "price": 850,
+        "description": "Flagship Samsung phone with high-resolution display and powerful processor.",
+        "Specification": ["6.2 inch AMOLED display", "256GB storage", "5G enabled", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.6
+    },
+    
+    {
+        "product_id": 11,
+        "product_title": "Anker PowerCore 20000mAh",
+        "product_image": "https://i.ibb.co.com/Zh0kKkQ/power-bank2.jpg",
+        "category": "Power Banks",
+        "price": 65,
+        "description": "High-capacity power bank with 20000mAh battery, ideal for multiple device charges.",
+        "Specification": ["20000mAh", "Dual USB ports", "Fast charging", "Compact design"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 12,
+        "product_title": "Samsung Galaxy Watch 5",
+        "product_image": "https://i.ibb.co.com/MNNG496/samsung-watch.jpg",
+        "category": "Smart Watches",
+        "price": 350,
+        "description": "Smartwatch with advanced fitness tracking, sleep monitoring, and seamless connectivity.",
+        "Specification": ["Blood oxygen monitoring", "Sleep tracking", "GPS", "Water-resistant", "20-hour battery life"],
+        "availability": false,
+        "rating": 4.5
+    }
+    
+    
+]

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "category": "Computers",
+      "slug": "brewed-coffee"
+    },
+    {
+      "id": 2,
+      "category": "Phones",
+      "slug": "iced-coffee"
+    },
+    {
+      "id": 3,
+      "category": "Smart Watches",
+      "slug": "dessert-coffee"
+    },
+    {
+      "id": 4,
+      "category": "Chargers",
+      "slug": "dessert-coffee"
+    },
+    {
+      "id": 5,
+      "category": "Power Banks",
+      "slug": "dessert-coffee"
+    }
+  ]
